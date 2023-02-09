@@ -1,0 +1,37 @@
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #45a1ff;
+    color: #fff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+
+}
+
+#NewSectionStyles {
+    padding: 50px;
+    
+}
+
+#footer-hover:hover{
+    background-color:#a6d2ff;
+    
+}
+
+#contact-div{
+    display: flex;
+    justify-content: center; 
+
+}
+#nameStyles{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+body{
+    background-color: lightgray;
+}
